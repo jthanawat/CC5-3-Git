@@ -34,7 +34,6 @@ ___underscore x3___
 [link to google](http://www.google.com)
 
 ***
-hr
 --- 
 
 
